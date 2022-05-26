@@ -2,7 +2,7 @@
 
 ## Links
 
-- [GitHub](https://github.com/brunosimon/experiment-holographic-terrain)
+- [GitHub](https://github.com/simond110/experiment-holographic-terrain)
 - [Live](https://experiment-holographic-terrain.vercel.app)
 
 ## Setup
